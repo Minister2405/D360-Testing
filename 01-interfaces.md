@@ -7,6 +7,7 @@ interface Text {
   text: string
 }
 ```
+bjbjkbjhv
 
 Which means it must have a `text` property with a string of content.
 
